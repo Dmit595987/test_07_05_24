@@ -4,7 +4,7 @@
 composer install
 ```
 
-Пример использования в файле Task.php
+Пример использования в директории src в файле Task.php
 
 ```
 $task = new Task();
